@@ -1,11 +1,14 @@
 # Leaky Coffee Mug
-CodePlayer Create a Leaky Coffee Mug with CSS. Made with HTML and CSS.
+A coffee mug with a leak near the bottom 
+
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions
-Clone the repo or download the zip file. Open index.html in the browser.
-
-## Contributions 
-This code is based on starter code from TheCodePlayer.com. Therefore I will not be accepting any pull requests.
+1. Clone the repo or download the zip file. 
+2. Open index.html in the browser.
+3. A coffee mug will be in the center of the page with a puddle beside it.
 
 ## Acknowledgements 
 * TheCodePlayer.com
